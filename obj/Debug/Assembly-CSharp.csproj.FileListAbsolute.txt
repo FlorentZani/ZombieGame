@@ -1,0 +1,2 @@
+C:\Users\Florent\Downloads\ZombieSurvivalGame\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Florent\Downloads\ZombieSurvivalGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
